@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Heyo 💫
+- 😊 Currently interning at Samsung Research Institute Indonesia as a Front-End Engineer
+- 🐻 Interested in Deep Learning and Front-End
+- 🎵 Likes Ghibli music
 <!--
 **jiayiko/jiayiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
